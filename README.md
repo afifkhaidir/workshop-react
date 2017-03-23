@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WebSlides = Good Karma
 Finally, everything you need to make HTML presentations in a beautiful way. Just the essentials. You can create your own presentation instantly. Simply choose a demo and customize it in minutes — [https://webslides.tv/demos](https://webslides.tv/demos)
 
@@ -85,3 +86,7 @@ Use it to make something cool.
 - WebSlides was created by [@jlantunez](https://twitter.com/jlantunez) using [Cactus](https://github.com/eudicots/Cactus).
 - Thanks [@LuisSacristan](https://twitter.com/luissacristan) for the javascript code :)
 - Based on [SimpleSlides](https://github.com/jennschiffer/SimpleSlides), by [@JennSchiffer](https://twitter.com/jennschiffer).
+=======
+# workshop-react
+Workshop React Presentation Slide
+>>>>>>> 6a46caca652e8b24f71a53fca1386692e9eec388
