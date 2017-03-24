@@ -1,0 +1,28 @@
+{
+  "name": "workshop-react",
+  "version": "1.0.0",
+  "description": "Workshop React Presentation Slide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afifkhaidir/workshop-react.git"
+  },
+  "keywords": [
+    "Slide",
+    "React",
+    "Workshop"
+  ],
+  "author": "afifkhaidir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afifkhaidir/workshop-react/issues"
+  },
+  "homepage": "https://github.com/afifkhaidir/workshop-react#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  }
+}

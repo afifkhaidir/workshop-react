@@ -1223,10 +1223,7 @@ display: block;
 }
 
 .logo a {
-  background: url(../images/logos/logo.svg) no-repeat 0 0;
-  background-size: 4.8rem;
-  width: 4.8rem;
-  height: 4.8rem;
+  color: #000;
   vertical-align: middle;
   float: left;
   text-indent: -4000px;
@@ -3170,4 +3167,8 @@ Solution: stackoverflow.com/questions/34250282/flexbox-safari-bug-flex-wrap
   #navigation {
     display: none;
   }
+}
+
+.tools-label {
+  font-size: 14px;
 }
